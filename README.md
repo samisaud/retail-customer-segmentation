@@ -11,13 +11,3 @@ Retailers can design targeted marketing campaigns for each customer segment, inc
 They can provide tailored service offerings, enhancing customer satisfaction and loyalty.
 Businesses can make data-driven decisions to optimize sales and understand areas for growth.
 We invite you to explore the repository, check out the datasets, the algorithms, and the insights we've derived. Any feedback, contributions, or insights of your own are most welcome!
-
-# Contributors
-Ehtesham: Expertise in Database management, Python programming, and ML model creation. Responsible for the initial data preprocessing and setting up the database structure.
-Contact: https://github.com/esana1
-
-Sami: Specialized in ML models, Python coding, and Data Visualization. Played a pivotal role in model selection, tuning, and visual representation of data.
-Contact: https://github.com/samisaud
-
-Ayush: Keen expertise in Visualization techniques, Business understanding, and problem-solving. Provided valuable business insights to align the project with market needs.
-Contact: https://github.com/asriv106
